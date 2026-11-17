@@ -1,6 +1,6 @@
 # AGENTS.md
 
-axios is a promise-based HTTP client for the browser and Node.js. The default instance is exported from `lib/axios.js` via `index.js`. Browser builds use the XHR or Fetch adapter; Node uses the HTTP/HTTPS adapter. Platform selection lives in `lib/platform/`.
+axios 1 is a promise-based HTTP client for the browser and Node.js. The default instance is exported from `lib/axios.js` via `index.js`. Browser builds use the XHR or Fetch adapter; Node uses the HTTP/HTTPS adapter. Platform selection lives in `lib/platform/`.
 
 This file is the canonical contributor guide for both human and AI agents working in this repo. `.github/copilot-instructions.md` is a thin stub that points back here — keep it in sync with the load-bearing safety rules below if you change them.
 
